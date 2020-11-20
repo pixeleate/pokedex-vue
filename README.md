@@ -19,6 +19,10 @@
 - [x] Detail View
 - [x] Pagination
 - [x] Optimistic store updates
+- [x] Page Transitions
+- [x] Toast for notifications
+- [x] Responsive
+
 
 # Coding Exercise Frontend
 
