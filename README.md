@@ -1,3 +1,25 @@
+# Final result
+
+![Pokedex](https://user-images.githubusercontent.com/1545853/99852983-b9836300-2b47-11eb-919f-64c26ee9b659.gif)
+
+## Features
+
+- [x] App using `Vue`
+- [x] Styles using `Tailwindcss`
+- [x] Queries and Mutations usin `vue-apollo`
+- [x] Tests using `Cypress`
+
+### UI
+
+- [x] Tabs for `All` and `Favorites` views
+- [x] Free Text search bar
+- [x] Grid View
+- [x] List View
+- [x] Sound player
+- [x] Detail View
+- [x] Pagination
+- [x] Optimistic store updates
+
 # Coding Exercise Frontend
 
 This repository contains a coding exercise for new developers joining the frontend development team. This version is focused in Vue.
